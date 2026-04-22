@@ -60,15 +60,15 @@ escuela.
 
 5. ¿Cómo usarlo? (Guía Básica) 
 El simulador es intuitivo y autoguiado: 
-1. Inicio: Al ejecutar el programa, el estudiante se encuentra frente a la consola. 
-2. Tutoriales: Escribiendo el comando help, el sistema despliega los módulos de 
-entrenamiento disponibles (tutorial-red, tutorial-dos, tutorial-firewall, tutorial-ataque). 
-Estos tutoriales enseñan paso a paso el uso de los comandos. 
-3. Misiones: Una vez entrenados, los alumnos escriben el comando misiones para abrir el 
-catálogo de crisis (Ej: Misión 1: El servidor fantasma). 
-4. Ejecución: Escribiendo mision 1, el panel derecho muestra los pasos a seguir. El alumno 
-debe aplicar los comandos aprendidos (ej: ping, arp -a, netsh) para salvar el sistema y 
-ganar su ascenso. 
+      1. Inicio: Al ejecutar el programa, el estudiante se encuentra frente a la consola. 
+      2. Tutoriales: Escribiendo el comando help, el sistema despliega los módulos de 
+      entrenamiento disponibles (tutorial-red, tutorial-dos, tutorial-firewall, tutorial-ataque). 
+      Estos tutoriales enseñan paso a paso el uso de los comandos. 
+      3. Misiones: Una vez entrenados, los alumnos escriben el comando misiones para abrir el 
+      catálogo de crisis (Ej: Misión 1: El servidor fantasma). 
+      4. Ejecución: Escribiendo mision 1, el panel derecho muestra los pasos a seguir. El alumno 
+      debe aplicar los comandos aprendidos (ej: ping, arp -a, netsh) para salvar el sistema y 
+      ganar su ascenso. 
 
 6. Equipo Técnico, Pedagógico y Desarrollador 
 Este proyecto ha sido modelado, diseñado, con una programacion asistida, por el equipo docente 
