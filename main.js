@@ -9,7 +9,7 @@ function createWindow () {
     minWidth: 1024,
     minHeight: 768,
     autoHideMenuBar: true, // Oculta el menú superior (Archivo, Editar, etc.)
-    icon: path.join(__dirname, 'icon.ico'), // Opcional: si de agrega un icono
+    icon: path.join(__dirname, 'icon.ico'), // Opcional: si se agrega un icono
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false
