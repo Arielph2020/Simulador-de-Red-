@@ -1,0 +1,28 @@
+{
+  "name": "simulador-redes",
+  "version": "3.0.0",
+  "description": "Simulador de Laboratorio de Redes y DOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win"
+  },
+  "author": "Soto Diego - Gareca Cristian",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.tecnica10.simulador",
+    "productName": "Simulador de Redes",
+    "win": {
+      "target": "nsis"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": true,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}
